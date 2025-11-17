@@ -317,19 +317,16 @@ void Error_Handler(void)
  
 }
 ```
-
- 
-
-## Result :
-
-![pmc_exp_8](https://github.com/user-attachments/assets/7d7da214-6420-4adf-ac94-6a5cfd4db86f)
-
  
 ## Output  :
 
+![pmc_exp_8](https://github.com/user-attachments/assets/7d7da214-6420-4adf-ac94-6a5cfd4db86f)
+
+![exp_8pmc](https://github.com/user-attachments/assets/d305ab55-e268-4b5f-a057-fd599ca88145)
 
 
 
-
+## Result :
+Thus , to configure ADC channel for interfacing an analog sensor and read the values on the com port is successfully completed.
 
 ****
